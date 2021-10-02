@@ -2,15 +2,11 @@
 
 <img src="/imgFProj/1.jpeg" width="400" height="790">
 <img src="/imgFProj/2.jpeg" width="400" height="790">
-
-
-![ScreenShot](/imgFProj/1.jpeg)
-![ScreenShot](/imgFProj/2.jpeg)
-![ScreenShot](/imgFProj/3.jpeg)
-![ScreenShot](/imgFProj/4.jpeg)
-![ScreenShot](/imgFProj/5.jpeg)
-![ScreenShot](/imgFProj/6.jpeg)
-![ScreenShot](/imgFProj/7.jpeg)
-![ScreenShot](/imgFProj/8.jpeg)
-![ScreenShot](/imgFProj/9.jpeg)
-![ScreenShot](/imgFProj/10.jpeg)
+<img src="/imgFProj/3.jpeg" width="400" height="790">
+<img src="/imgFProj/4.jpeg" width="400" height="790">
+<img src="/imgFProj/5.jpeg" width="400" height="790">
+<img src="/imgFProj/6.jpeg" width="400" height="790">
+<img src="/imgFProj/7.jpeg" width="400" height="790">
+<img src="/imgFProj/8.jpeg" width="400" height="790">
+<img src="/imgFProj/9.jpeg" width="400" height="790">
+<img src="/imgFProj/10.jpeg" width="400" height="790">
