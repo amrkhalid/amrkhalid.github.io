@@ -1,6 +1,7 @@
 # amrkhalid.github.io
 
-![ScreenShot](/imgFProj/1.jpeg)  ![ScreenShot](/imgFProj/2.jpeg)
+![ScreenShot](/imgFProj/1.jpeg | width = 20) 
+![ScreenShot](/imgFProj/2.jpeg)
 ![ScreenShot](/imgFProj/3.jpeg)
 ![ScreenShot](/imgFProj/4.jpeg)
 ![ScreenShot](/imgFProj/5.jpeg)
