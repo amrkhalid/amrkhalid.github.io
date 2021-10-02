@@ -2,4 +2,4 @@
 
 
 
-![plot](./mark2/imgFProj/1.jpeg)
+![Alt text]imgFProj/1.jpeg?raw=true "Title")
