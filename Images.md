@@ -1,6 +1,7 @@
 # amrkhalid.github.io
 
-![ScreenShot](/imgFProj/1.jpeg){:height="50%" width="50%"} 
+<img src="/imgFProj/1.jpeg" width="400" height="790">
+![ScreenShot](/imgFProj/1.jpeg)
 ![ScreenShot](/imgFProj/2.jpeg)
 ![ScreenShot](/imgFProj/3.jpeg)
 ![ScreenShot](/imgFProj/4.jpeg)
